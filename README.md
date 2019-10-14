@@ -7,3 +7,6 @@ Commands learned so far:
 - `init`: initializes folder as a git repository
 - `status`: looks at current status
 
+-new lines for break one
+-new lines for break one
+
