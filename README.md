@@ -6,8 +6,9 @@ Commands learned so far:
 
 - `init`: initializes folder as a git repository
 - `status`: looks at current status
-- `add`
+- `add`: add file to staging area
 - `commit`: save snapshot and add note
+- `log`: look at commit history
 
 -new lines for break one
 -new lines for break one
