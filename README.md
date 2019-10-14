@@ -15,3 +15,5 @@ Commands learned so far:
 
 -after second commit
 
+add this line while on github, not on local machine
+and then from local machine, pull to update local machine
